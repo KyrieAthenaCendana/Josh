@@ -40,7 +40,7 @@ salty, and spicy."</blockquote>
 <br><br>
 
 <!-- Recipe Table -->
-    <table border=1>
+    <table border="1">
         <caption>Recipe Details</caption>
         <tr>
             <th>Ingredient</th>
@@ -66,8 +66,9 @@ salty, and spicy."</blockquote>
             <td colspan="2">Preparation Time: 20 minutes</td>
         </tr>
         <tr>
-            <td colspan="2"><strong>Serving Suggestions:</strong> Serve with steamed rice or jasmine tea. </td>
+            <td colspan="2"><strong>Serving Suggestions:</strong> Serve with steamed rice or jasmine tea.</td>
         </tr>
+    
     </tbody>
     </table>
     
