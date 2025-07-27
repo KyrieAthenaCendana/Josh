@@ -67,11 +67,15 @@ cellspacing="0">
       <tr>
         <td>Shrimp</td>
         <td>500g</td>
-      </tr>
-  <p><strong>Preparation Time:</strong> 20 minutes</p>
-  <p><strong>Serving Suggestions:</strong> Serve with steamed rice or jasmine tea.</p>
-    </tbody>
- </table>
- 
+    
+  </tr>
+    <td colspan="2">preperation time: 20 minutes</td>
+</tr>
+<tr>
+    <td colspan="2"><strong>Serving Suggestion:</strong>serve with steamed or jasmine tea.</td>
+</tr>
+</tbody>
+</table>
+
 </body>
 </html>
