@@ -5,7 +5,9 @@
 <meta charset="UTF 8">
 <title>Taste of Travel</title>
 <meta name="embark on a culinary adventure with  taste of travel, exploring global flavor recipe.">
+
 </head>
+<body bgcolor="#F1DABF">
 
 <h1>Discover the flavor of thailand</h1>
 <h2>Tom Yum Goong: A spicy thai delight</h2>
@@ -36,38 +38,39 @@ salty, and spicy."</blockquote>
 <h3>Cooking tips</h3><p>
 <sup>1/4</sup>cup of fish sauce adds authentic Thai flavor.<br>
 <sub>1</sub>tablespoon of chili paste gives the soup its signature heat.<br></p>
-<img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg" alt ="tom yum goong"/>
-<br><br>
+<img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg" alt="tom yum goong"/>
 
-<!-- Recipe Table -->
-    <table border="1">
-        <caption>Recipe Details</caption>
-        <tr>
-            <th>Ingredient</th>
-            <th>Quantity</th>
-        </tr>
-        <tr>
-            <td>Lemongrass</td>
-            <td>2 stalks</td>
-        </tr>
-        <tr>
-            <td>Thai basil</td>
-            <td>1 cup</td>
-        </tr>
-        <tr>
-            <td>Kaffir Lime Leaves</td>
-            <td>3 leaves</td>
-        </tr>
-        <tr>
-            <td>Shrimp</td>
-            <td>500g</td>
-        </tr>
-        <tr>
-            <td colspan="2">Preparation Time: 20 minutes</td>
-        </tr>
-        <tr>
-            <td colspan="2"><strong>Serving Suggestions:</strong> Serve with steamed rice or jasmine tea.</td>
-        </tr>
-    
+<br><br>
+ <table>
+    <caption><strong>Recipe Details</strong></caption>
+    <thead>
+      <tr>
+        <th>Ingredient</th>
+        <th>Quantity</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Lemongrass</td>
+        <td>2 stalks</td>
+      </tr>
+      <tr>
+        <td>Thai basil</td>
+        <td>1 cup</td>
+      </tr>
+      <tr>
+        <td>Kaffir Lime Leaves</td>
+        <td>3 leaves</td>
+      </tr>
+      <tr>
+        <td>Shrimp</td>
+        <td>500g</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p><strong>Preparation Time:</strong> 20 minutes</p>
+  <p><strong>Serving Suggestions:</strong> Serve with steamed rice or jasmine tea.</p>
+
 </body>
 </html>
