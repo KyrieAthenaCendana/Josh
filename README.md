@@ -53,10 +53,8 @@ cellspacing="0">
     </thead>
     <tbody>
       <tr>
-          
         <td>Lemongrass</td>
         <td>2 stalks</td>
-     
       </tr>
       <tr>
         <td>Thai basil</td>
