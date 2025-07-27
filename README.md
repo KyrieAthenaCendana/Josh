@@ -69,7 +69,6 @@ salty, and spicy."</blockquote>
             <td colspan="2"><strong>Serving Suggestions:</strong> Serve with steamed rice or jasmine tea.</td>
         </tr>
     </table>
-
-
+    
 </body>
 </html>
