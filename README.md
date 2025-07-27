@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Taste of Travel</title>
     <meta name="description" content="Embark on a culinary adventure with Taste of Travel, exploring global flavors and recipes.">
 </head>
@@ -29,7 +30,8 @@
 
     <!-- Blockquote -->
     <blockquote>
-        Chef Somchai, a Thai cuisine expert, said: "The key to a delicious Tom Yum Goong lies in the balance of flavors—sweet, sour, salty, and spicy."
+        <p>"The key to a delicious Tom Yum Goong lies in the balance of flavors—sweet, sour, salty, and spicy."</p>
+        <footer>— Chef Somchai, Thai cuisine expert</footer>
     </blockquote>
 
     <!-- Preparation List -->
@@ -53,13 +55,13 @@
 
     <!-- Thai Flavors List -->
     <ul>
-        <li><sub>Use fish sauce</sub> adds authentic Thai flavor.</li>
+        <li><sub>Use fish sauce</sub> to add authentic Thai flavor.</li>
         <li><sub>Use chili paste</sub> to spice up its signature heat.</li>
-        <li><sup>Use teaspoons</sup> to measure spicy dishes and <sup>sub</sup> for smaller quantities.</li>
+        <li>Use <sup>teaspoons</sup> for spicy dishes and <sub>sub-units</sub> for smaller measurements.</li>
     </ul>
 
     <!-- Image Section -->
-    <img src="https://cdn.upload.wikimedia.org/wikipedia/commons/thumb/0/04/Thai-soup.jpg/800px-Thai-soup.jpg" alt ="Tom Yum Goong">
+    <img src="https://cdn.upload.wikimedia.org/wikipedia/commons/thumb/0/04/Thai-soup.jpg/800px-Thai-soup.jpg" alt="Tom Yum Goong">
     <br><br>
 
     <!-- Recipe Table -->
