@@ -37,10 +37,10 @@ salty, and spicy."</blockquote>
 <sup>1/4</sup>cup of fish sauce adds authentic Thai flavor.<br>
 <sub>1</sub>tablespoon of chili paste gives the soup its signature heat.<br></p>
 <img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg" alt ="tom yum goong"/>
-
 <br><br>
+
 <!-- Recipe Table -->
-    <table border="1">
+    <table border=1>
         <caption>Recipe Details</caption>
         <tr>
             <th>Ingredient</th>
@@ -66,7 +66,7 @@ salty, and spicy."</blockquote>
             <td colspan="2">Preparation Time: 20 minutes</td>
         </tr>
         <tr>
-            <td colspan="2"><strong>Serving Suggestions:</strong> Serve with steamed rice or jasmine tea.</td>
+            <td colspan="2"><strong>Serving Suggestions:</strong> Serve with steamed rice or jasmine tea. </td>
         </tr>
     
     </table>
