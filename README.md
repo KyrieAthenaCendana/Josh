@@ -53,8 +53,10 @@ cellspacing="0">
     </thead>
     <tbody>
       <tr>
+          
         <td>Lemongrass</td>
         <td>2 stalks</td>
+     
       </tr>
       <tr>
         <td>Thai basil</td>
@@ -67,7 +69,6 @@ cellspacing="0">
       <tr>
         <td>Shrimp</td>
         <td>500g</td>
-    
   </tr>
     <td colspan="2">preperation time: 20 minutes</td>
 </tr>
