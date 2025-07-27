@@ -41,7 +41,9 @@ salty, and spicy."</blockquote>
 <img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg" alt="tom yum goong"/>
 
 <br><br>
- <table>
+ <table border= "1"
+cell padding="5"
+cellspacing="0"> 
     <caption><strong>Recipe Details</strong></caption>
     <thead>
       <tr>
