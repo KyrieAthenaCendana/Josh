@@ -68,11 +68,10 @@ cellspacing="0">
         <td>Shrimp</td>
         <td>500g</td>
       </tr>
-    </tbody>
-  </table>
-
   <p><strong>Preparation Time:</strong> 20 minutes</p>
   <p><strong>Serving Suggestions:</strong> Serve with steamed rice or jasmine tea.</p>
-
+    </tbody>
+ </table>
+ 
 </body>
 </html>
