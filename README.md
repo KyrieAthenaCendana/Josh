@@ -39,7 +39,6 @@ salty, and spicy."</blockquote>
 <sub>1</sub>tablespoon of chili paste gives the soup its signature heat.<br></p>
 <img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg"alt ="tom yum goong"/>
 <br><br>
-
 <table border="1"
 cellpadding="5"
 cellspacing="0">
