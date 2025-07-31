@@ -33,9 +33,8 @@
     <sup>1/4</sup> cup of fish sauce adds authentic Thai flavor.<br>
     <sub>1</sub> tablespoon of chili paste gives the soup its signature heat.
   </p>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Tom_Yum_Goong.jpg" alt="Tom Yum Goong" />
-
+  
+  <img src""https://edube.org/uploads/media/default/0001/04/thai-soup.jpg"alt="tom yum goong"/>
   <br><br>
   <table border="1" cellpadding="5" cellspacing="0">
     <caption><strong>Recipe Details</strong></caption>
