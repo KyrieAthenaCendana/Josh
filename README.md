@@ -66,7 +66,7 @@ cellspacing="0">
         <td>Shrimp</td>
         <td>500g</td>
       </tr>
-</tr>
+<tr>
     <td colspan="2">preperation time: 20 minutes</td>
 </tr>
 </tr>
