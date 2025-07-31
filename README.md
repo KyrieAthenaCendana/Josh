@@ -5,7 +5,6 @@
 <meta charset="UTF 8">
 <title>Taste of Travel</title>
 <meta name="embark on a culinary adventure with  taste of travel, exploring global flavor recipe.">
-
 </head>
 
 <h1>Discover the flavor of thailand</h1>
@@ -41,7 +40,6 @@ salty, and spicy."</blockquote>
 <img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg"alt ="tom yum goong"/>
 
 <br><br>
-
 <table border="1"
 cellpadding="5"
 cellspacing="0">
@@ -53,31 +51,32 @@ cellspacing="0">
 </tr>
 </thread>
 <tbody>
-          <tr>
-        <td>Lemongrass</td>
+    <tr>
+        <td>lemongrass</td>
         <td>2 stalks</td>
-      </tr>
-      <tr>
-        <td>Thai basil</td>
-        <td>1 cup</td>
-      </tr>
-      <tr>
-        <td>Kaffir Lime Leaves</td>
-        <td>3 leaves</td>
-      </tr>
-      <tr>
-        <td>Shrimp</td>
-        <td>500g</td>
-      </tr>
+    </tr>
+<tr>
+<td>Thai basil</td>
+</tr>
+<tr>
+<td>Kaffir Lime Leaves</td>
+<td>3 leaves </td>
+</tr>
+<tr>
+<td>Shrimp</td>
+<td>500g</td>
+</tr>
+
 <tr>
     <td colspan="2">preperation time: 20 minutes</td>
 </tr>
 <tr>
     <td colspan="2"><strong>Serving Suggestion:</strong>serve with steamed or jasmine tea.</td>
-</tr>   
+</tr>
 </tbody>
 </table>
 
 </body>
 </html>
+
 
