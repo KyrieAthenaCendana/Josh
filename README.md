@@ -36,7 +36,7 @@ salty, and spicy."</blockquote>
 <h3>Cooking tips</h3><p>
 <sup>1/4</sup>cup of fish sauce adds authentic Thai flavor.<br>
 <sub>1</sub>tablespoon of chili paste gives the soup its signature heat.<br></p>
-<img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg"alt ="tom yum goong"/>
+<img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg"alt="tom yum goong"/>
 
 <br><br>
 <table border="1"
@@ -54,17 +54,6 @@ cellspacing="0">
         <td>lemongrass</td>
         <td>2 stalks</td>
     </tr>
-<tr>
-<td>Thai basil</td>
-</tr>
-<tr>
-<td>Kaffir Lime Leaves</td>
-<td>3 leaves </td>
-</tr>
-<tr>
-<td>Shrimp</td>
-<td>500g</td>
-</tr>
 
 <tr>
     <td colspan="2">preperation time: 20 minutes</td>
@@ -77,5 +66,3 @@ cellspacing="0">
 
 </body>
 </html>
-
-
